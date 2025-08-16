@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/wyko/dev/cpp/rubiks-cracker/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

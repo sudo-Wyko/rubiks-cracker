@@ -1,0 +1,1 @@
+/sbin/c++ -Wl,--dependency-file=CMakeFiles/RubiksCracker.dir/link.d "CMakeFiles/RubiksCracker.dir/src/rubiks-cracker.cpp.o" -o RubiksCracker  /usr/lib/libraylib.so -L/usr/lib -lraylib
