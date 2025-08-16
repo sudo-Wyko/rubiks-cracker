@@ -3,6 +3,8 @@ RubiksCracker: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/../../../../lib/crti.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/crtbeginS.o \
   CMakeFiles/RubiksCracker.dir/src/rubiks-cracker.cpp.o \
+  CMakeFiles/RubiksCracker.dir/src/rubiks.cpp.o \
+  CMakeFiles/RubiksCracker.dir/src/solver.cpp.o \
   /usr/lib/libraylib.so \
   /usr/lib/libraylib.so \
   /usr/lib/libstdc++.so \
@@ -40,6 +42,10 @@ RubiksCracker: \
 /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/crtbeginS.o:
 
 CMakeFiles/RubiksCracker.dir/src/rubiks-cracker.cpp.o:
+
+CMakeFiles/RubiksCracker.dir/src/rubiks.cpp.o:
+
+CMakeFiles/RubiksCracker.dir/src/solver.cpp.o:
 
 /usr/lib/libraylib.so:
 

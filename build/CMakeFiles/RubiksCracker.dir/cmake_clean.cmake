@@ -2,6 +2,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/RubiksCracker.dir/link.d"
   "CMakeFiles/RubiksCracker.dir/src/rubiks-cracker.cpp.o"
   "CMakeFiles/RubiksCracker.dir/src/rubiks-cracker.cpp.o.d"
+  "CMakeFiles/RubiksCracker.dir/src/rubiks.cpp.o"
+  "CMakeFiles/RubiksCracker.dir/src/rubiks.cpp.o.d"
+  "CMakeFiles/RubiksCracker.dir/src/solver.cpp.o"
+  "CMakeFiles/RubiksCracker.dir/src/solver.cpp.o.d"
   "RubiksCracker"
   "RubiksCracker.pdb"
 )

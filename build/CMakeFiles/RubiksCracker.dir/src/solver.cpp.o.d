@@ -1,7 +1,7 @@
-CMakeFiles/RubiksCracker.dir/src/rubiks-cracker.cpp.o: \
- /home/wyko/dev/cpp/rubiks-cracker/src/rubiks-cracker.cpp \
- /usr/include/stdc-predef.h /usr/include/raylib.h \
- /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h \
+CMakeFiles/RubiksCracker.dir/src/solver.cpp.o: \
+ /home/wyko/dev/cpp/rubiks-cracker/src/solver.cpp \
+ /usr/include/stdc-predef.h \
+ /home/wyko/dev/cpp/rubiks-cracker/src/solver.h \
  /home/wyko/dev/cpp/rubiks-cracker/src/rubiks.h \
  /usr/include/c++/15.1.1/vector \
  /usr/include/c++/15.1.1/bits/requires_hosted.h \
@@ -64,6 +64,7 @@ CMakeFiles/RubiksCracker.dir/src/rubiks-cracker.cpp.o: \
  /usr/include/c++/15.1.1/bits/postypes.h /usr/include/c++/15.1.1/cwchar \
  /usr/include/wchar.h /usr/include/bits/libc-header-start.h \
  /usr/include/bits/floatn.h /usr/include/bits/floatn-common.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h \
  /usr/include/bits/wchar.h /usr/include/bits/types/wint_t.h \
  /usr/include/bits/types/mbstate_t.h \
  /usr/include/bits/types/__mbstate_t.h /usr/include/bits/types/__FILE.h \
@@ -182,6 +183,5 @@ CMakeFiles/RubiksCracker.dir/src/rubiks-cracker.cpp.o: \
  /usr/include/c++/15.1.1/bits/random.tcc /usr/include/c++/15.1.1/numeric \
  /usr/include/c++/15.1.1/bits/stl_numeric.h \
  /usr/include/c++/15.1.1/pstl/glue_numeric_defs.h \
- /usr/include/c++/15.1.1/pstl/execution_defs.h \
- /home/wyko/dev/cpp/rubiks-cracker/src/solver.h \
- /usr/include/c++/15.1.1/iostream
+ /usr/include/c++/15.1.1/pstl/execution_defs.h /usr/include/raylib.h \
+ /usr/include/c++/15.1.1/array /usr/include/c++/15.1.1/compare

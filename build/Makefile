@@ -153,6 +153,54 @@ src/rubiks-cracker.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCracker.dir/build.make CMakeFiles/RubiksCracker.dir/src/rubiks-cracker.cpp.s
 .PHONY : src/rubiks-cracker.cpp.s
 
+src/rubiks.o: src/rubiks.cpp.o
+.PHONY : src/rubiks.o
+
+# target to build an object file
+src/rubiks.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCracker.dir/build.make CMakeFiles/RubiksCracker.dir/src/rubiks.cpp.o
+.PHONY : src/rubiks.cpp.o
+
+src/rubiks.i: src/rubiks.cpp.i
+.PHONY : src/rubiks.i
+
+# target to preprocess a source file
+src/rubiks.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCracker.dir/build.make CMakeFiles/RubiksCracker.dir/src/rubiks.cpp.i
+.PHONY : src/rubiks.cpp.i
+
+src/rubiks.s: src/rubiks.cpp.s
+.PHONY : src/rubiks.s
+
+# target to generate assembly for a file
+src/rubiks.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCracker.dir/build.make CMakeFiles/RubiksCracker.dir/src/rubiks.cpp.s
+.PHONY : src/rubiks.cpp.s
+
+src/solver.o: src/solver.cpp.o
+.PHONY : src/solver.o
+
+# target to build an object file
+src/solver.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCracker.dir/build.make CMakeFiles/RubiksCracker.dir/src/solver.cpp.o
+.PHONY : src/solver.cpp.o
+
+src/solver.i: src/solver.cpp.i
+.PHONY : src/solver.i
+
+# target to preprocess a source file
+src/solver.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCracker.dir/build.make CMakeFiles/RubiksCracker.dir/src/solver.cpp.i
+.PHONY : src/solver.cpp.i
+
+src/solver.s: src/solver.cpp.s
+.PHONY : src/solver.s
+
+# target to generate assembly for a file
+src/solver.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RubiksCracker.dir/build.make CMakeFiles/RubiksCracker.dir/src/solver.cpp.s
+.PHONY : src/solver.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -165,6 +213,12 @@ help:
 	@echo "... src/rubiks-cracker.o"
 	@echo "... src/rubiks-cracker.i"
 	@echo "... src/rubiks-cracker.s"
+	@echo "... src/rubiks.o"
+	@echo "... src/rubiks.i"
+	@echo "... src/rubiks.s"
+	@echo "... src/solver.o"
+	@echo "... src/solver.i"
+	@echo "... src/solver.s"
 .PHONY : help
 
 
